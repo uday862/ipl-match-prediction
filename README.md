@@ -44,7 +44,7 @@ The model achieves an **80% accuracy** by fine‑tuning weights based on **log l
    ```bash
    cd backend
    python app.py
-   ```
+   ``` 
 
 2. **Run the Backend Server:**
    ```bash
